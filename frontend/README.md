@@ -1,4 +1,4 @@
-"# SheCare - Women's Health & Wellness Tracker
+# SheCare - Women's Health & Wellness Tracker
 
 SheCare is a full-stack web application designed to help women track their health and wellness, including menstrual cycles, mental well-being, and overall health insights.
 
@@ -18,4 +18,4 @@ SheCare is a full-stack web application designed to help women track their healt
 - **State Management:** Redux (if needed)
 - **Authentication:** JWT (if required)
 
-" 
+
