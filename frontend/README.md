@@ -1,12 +1,21 @@
-# React + Vite
+"# SheCare - Women's Health & Wellness Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SheCare is a full-stack web application designed to help women track their health and wellness, including menstrual cycles, mental well-being, and overall health insights.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🩸 **Period & Ovulation Tracker** - Helps predict menstrual cycles.
+- 🧘 **Mental Health Hub** - Includes meditation tips, mood tracking, and wellness articles.
+- 💊 **Medication & Appointment Reminders** - Never miss a check-up or prescription.
+- 📊 **Health Insights Dashboard** - Provides analytics and trends.
+- 🏋️ **Lifestyle & Fitness Tips** - Personalized recommendations for a healthy lifestyle.
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js + Bootstrap
+- **Backend:** Node.js + Express.js
+- **Database:** MongoDB
+- **State Management:** Redux (if needed)
+- **Authentication:** JWT (if required)
+
+" 
